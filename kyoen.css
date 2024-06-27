@@ -95,7 +95,7 @@ main{
     background: black;
 }
 #introduction{
-    background-image:url('../images/toyosu.jpg') ;
+    background-image:url('./toyosu.jpg') ;
     background-size:cover;
     background-position: center center;
     position: relative;
