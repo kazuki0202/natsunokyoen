@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>夏の響宴</title>
+    <meta name="discription" content="こちらは夏の響宴のホームページです">
+    <link rel="stylesheet" href="./css/kyoen.css">
+</head>
+<body>
+    <header>
+        <h1 id="site_title">夏の響演2024</h1>
+        <nav id="navigation">
+            <ul>
+                <li><a href="./kyoen.html">TOP</a></li>
+                <li><a href="./about.html">ABOUT</a></li>
+                <li><a href="./sanka.html">参加団体紹介</a></li>
+                <li><a href="./program.html">プログラム</a></li>
+                <li><a href="./access.html">アクセス</a></li>
+                <li><a href="./otoi.html">問い合わせ</a></li>
+            </ul>
+        </nav>
+        <nav id="drawer-navigation">
+           <span id="line1" class="drawer-line"></span>
+           <span id="line2" class="drawer-line"></span>
+           <span id="line3" class="drawer-line"></span>
+        </nav>
+    </header>
+    <main>
+        <div class = "date">
+        <h2>日時</h2>
+        <h3>9月13日（金）/開場:10時/開演:10時半/終演:21時</h3>
+        <h2>会場</h2>
+        <h3>豊洲シビックセンターホール</h3>
+        <h2>主催</h2>
+        <h3>夏の学生音楽祭実行委員会</h3>
+        <h2>協賛</h2>
+        <h3>続報を待て</h3>
+        <h2>特別協賛</h2>
+        <h3>ｆｊｋｄぁ</h33>
+        <h2>後援 </h2>
+        <h3>白石区</h3>
+        <h2>運営体制</h2>
+        <dl class="members">
+        <dt>実行委員長</dt>
+        <dd>申千春</dd>
+        <dt>副委員長</dt>
+        <dd class="n">
+            <p>本多渉</p>
+            <p>青木千紗</p>
+        </dd>
+        <dt>会計</dt>
+        <dd class="n">
+            <p>佐々木優香</p>
+            <p>森谷陽菜</p>
+        </dd>
+        <dt>会計監査</dt>
+        <dd>浜中雄大</dd>
+        <dt>総務</dt>
+        <dd class="n">
+            <p>江島直太朗</p>
+            <p>陣内二季</p>
+        </dd>
+        <dt>渉外</dt>
+        <dd class="n">
+            <p>古野満理佳</p>
+            <p>石船吉乃</p>
+        </dd>
+        <dt>ウェブ</dt>
+        <dd class="n">
+            <p>市原和樹</p>
+            <p>大野沙耶</p>
+        </dd>
+        <dt>広報</dt>
+        <dd class="n">
+            <p>土方悠靖</p>
+            <p>山田太郎</p>
+        </dd>
+        </dl>
+      </div>
+    </section>
+    </main>
+    <script src="kyoen.js"></script>
+</body>
+</html>
