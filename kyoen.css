@@ -339,4 +339,7 @@ footer{
 .footer-company{
     padding-top:40px;
 }  
+.footer-company img{
+    width:150px;
+}
 }
