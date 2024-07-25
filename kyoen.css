@@ -333,6 +333,9 @@ dd{
     justify-content: center;
     align-items: center;
 }
+footer{
+    height:800px;
+}
 .footer-company{
     padding-top:40px;
 }  
