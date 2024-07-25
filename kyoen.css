@@ -330,4 +330,7 @@ dd{
     justify-content: center;
     align-items: center;
 }
+.footer-company{
+    padding-top:40px;
+}
 }
