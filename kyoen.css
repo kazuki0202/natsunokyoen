@@ -229,6 +229,9 @@ dd{
 .footer-company{
     padding-top:40px;
 }
+.footer-company img{
+    width:330px;
+}
 }
 @media (max-width:700px){
 #introduction .container{
